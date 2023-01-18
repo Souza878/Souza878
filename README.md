@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do Souza878 😁
 
  <div>
-   <a href="https://github.com/Souza">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username="Souza878
+   <a href="https://github.com/souza">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username="souza878
 show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f&layout=compact&langs count=6&theme=tokyonight"/>
 </div>
